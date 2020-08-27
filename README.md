@@ -7,3 +7,9 @@ Using Google BigQuery API to create data pipeline from bigquery-public-data
 - embeded SQL queries as strings to call bigquery-public-data 
 
 # EDA
+Following datasets are analyzed:
+- Chicago taxi trips log `bigquery-public-data.chicago_taxi_trips.taxi_trips.`
+- stackoverflow log & post history `bigquery-public-data.stackoverflow.`
+- Bitcoin value `bigquery-public-data.crypto_bitcoin.`
+- OpenAQ Global Air Quality `bigquery-public-project`
+- US traffic_fatalities `bigquery-public-project.nhtsa_traffic_fatalities`
